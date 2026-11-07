@@ -1,0 +1,13 @@
+# Arquivos gerados pelo compilador Java
+*.class
+
+# Configurações locais de editores e sistemas operacionais
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
